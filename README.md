@@ -1,7 +1,7 @@
 # Ejercicios_Tema10_TecnicasDeProgramacion
 
 ## Nota
-Mi repositorio es:
+Mi repositorio es: https://github.com/JorgeCadrecha/Ejercicios_Tema10_TecnicasDeProgramacion.git
 
 ## Enunciados
 
